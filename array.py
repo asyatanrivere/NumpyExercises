@@ -54,7 +54,6 @@ print("\n")
 arrem=np.empty((4,5)) # random entries from ram
 print("arr with empty method:\n",arrem)
 
-
 arrexam=np.array(
                   [[1,2,3],
                    [4,5,6],
